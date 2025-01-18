@@ -9,5 +9,5 @@ for i in range(t):
     for k_1 in range(k):
         for n_1 in range(1, n):
             f0[n_1] += f0[n_1-1]
-print(f0[-1])
+    print(f0[-1])
     
