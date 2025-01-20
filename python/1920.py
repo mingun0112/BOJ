@@ -6,7 +6,7 @@ n = int(input())
 
 a = list(map(int, input().split()))
 a= set(a)
-print(a)
+# print(a)
 m = int(input())
 
 b = list(map(int, input().split()))
